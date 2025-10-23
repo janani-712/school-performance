@@ -40,8 +40,8 @@ Copy code
 
 ## ⚙️ Setup & Initialization
 
-  1️⃣ Clone the repository
-  ```bash
+    1️⃣ Clone the repository
+    ```bash
   git clone https://github.com/yourusername/school-performance-analysis.git
   cd school-performance-analysis
   2️⃣ Install dependencies
@@ -52,6 +52,7 @@ Copy code
   bash
   Copy code
   python school_performance_analysis.py
+  ----
   4️⃣ View results
   Terminal will show individual student metrics and class-level metrics.
 
